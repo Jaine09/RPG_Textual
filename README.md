@@ -9,6 +9,6 @@ A primeira tarefa era abrir a porta trancada, marcada por símbolos estranhos. A
 
 
 
-Deasenvolvido por: Jaíne, Camile, Leonardo e Pedro
-Alunos do curso de Análise e Desenvolvimento de Sistemas
+Deasenvolvido por: Jaíne, Camile, Leonardo e Pedro;
+Alunos do curso de Análise e Desenvolvimento de Sistemas;
 Centro Universitário Senac Santo Amaro
